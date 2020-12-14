@@ -1,0 +1,84 @@
+s.no,Nameofproduct,protein_gram,sodium_mg,fiber_gram,sugars_gram,Servingsize_g,calories_value,Saturatedfat
+1,Quest Tortilla Style Protein Chips - Spicy Sweet Chili (8 Bags),19,300,1,1,32,140,0
+2,Quest Tortilla Style Protein Chips - Loaded Taco (8 Bags),19,340,1,1,32,140,0
+3,Quest Tortilla Style Protein Chips - Nacho Cheese (8 Bags),18,340,1,0,32,140,1
+4,Quest Tortilla Style Protein Chips - Chili Lime (8 Bags),20,330,1,0,32,140,0
+5,Quest Protein Chips - Barbecue (8 Bags),21,230,0,0,32,120,0
+6,Quest Protein Chips - Cheddar & Sour Cream (8 Bags),21,150,0,0,32,120,0
+7,Organic Protein Puffs - Caramelized Onions (8 Bags),10,210,5,1,42,172,1
+8,Organic Protein Stix - Mesquite BBQ (8 Bags),10,220,5,3,42,180,0
+9,"Organic Protein Stix - Tapatio, Jalapeno and Sour Cream (8 Bags)",10,250,5,2,42,180,1
+10,Organic Protein Stix - Spicy Sweet Peppers (8 Bags),10,280,5,2,42,180,0
+11,Ostrim High Protein Beef & Elk Snack Stick - Habanero (10 Sticks),14,360,0,0,42,90,1
+12,Organic Protein Stix - Korean BBQ (8 Bags),10,220,5,3,42,180,0
+13,High Protein Beef Stick - Smoked Mesquite (12 Sticks),15,850,0,4,43,140,3
+14,High Protein Beef Stick - Original Peppered (12 Sticks),15,740,0,2,43,160,4
+15,Keto Friendly Protein Chips - Mesquite BBQ (6 Bags),8,280,4,2,30,150,5
+16,High Protein Beef Stick - Teriyaki (12 Sticks),16,980,0,7,42,190,4
+17,High Protein Beef Stick - Volcanic Jalapeno (12 Sticks),15,740,0,2,42,170,4
+18,Keto Friendly Chips with Avocado Oil - Sour Cream and Onion (6 Bags),8,280,4,1,30,140,5
+19,Keto Friendly Chips with Avocado Oil - Dill Pickle (6 Bags),8,290,4,1,30,140,5
+20,Quest Protein Chips - Sour Cream & Onion (8 Bags),21,160,5,0,32,120,0
+21,Organic Protein Puffs - Cheddar Cheese (8 Bags),10,210,5,1,42,172,1
+22,Organic Protein Puffs - Red Pepper (8 Bags),10,210,5,1,42,172,1
+23,Organic Protein Stix - Nacho Cheese (8 Bags),10,310,5,1,42,180,1
+24,Organic Protein Stix - Cinnamon Churro(8 Bags),10,0,5,5,42,180,0
+25,Protein Ridges - Cheese (10 Bags),15,150,1,3,39,170,1
+26,BBQ Beef Sticks (24 Sticks),5,280,0,0,28,90,3
+27,Honey Mustard Turkey Sticks (24 Sticks),8,200,0,0,28,70,1
+28,Uncured Pepperoni Turkey Sticks (24 Sticks),10,230,0,0,28,70,1
+29,CHEETOS® Mac 'n Cheese Bold & Cheesy,9,620,2,4,68,240,1.5
+30,CHEETOS® Mac 'n Cheese FLAMIN' HOT®,8,610,2,2,64,220,1
+31,CHEETOS® Mac 'n Cheese Cheesy Jalapeño,8,670,2,3,66,230,1
+32,CHEETOS® Mac 'n Cheese FLAMIN' HOT® Cup,6,620,2,2,60,210,1
+33,NEW! CHEETOS® Cheddar Popcorn Flavored Snacks,3,260,2,2,28,160,2
+34,DORITOS® FLAMIN' HOT® Nacho Flavored Tortilla Chips,2,190,1,1,28,150,1
+35,DORITOS® FLAMIN' HOT® Limón Flavored Tortilla Chips,2,190,1,1,28,150,1
+36,DORITOS® Nacho Cheese Flavored Tortilla Chips,2,210,1,1,28,150,1
+37,DORITOS® COOL RANCH® Flavored Tortilla Chips,2,190,1,1,28,150,1
+38,DORITOS® Spicy Sweet Chili Flavored Tortilla Chips,2,270,1,1,28,140,1
+39,DORITOS® DINAMITA® Chile Limón Flavored Rolled Tortilla Chips,2,220,1,0,28,160,1.5
+40,Doritos Poppin’ Jalapeno® Flavored Tortilla Chips,2,190,1,1,28,150,1
+41,DORITOS® Spicy Nacho Flavored Tortilla Chips,2,190,1,0,28,140,1
+42,DORITOS® FLAMAS® Flavored Tortilla Chips,2,200,1,1,28,140,1
+43,DORITOS® TAPATIO® Flavored Tortilla Chips,2,170,1,0,28,140,1.5
+44,Doritos Blazin’ Buffalo & Ranch® Flavored Tortilla Chips,2,190,1,1,28,150,1
+45,DORITOS® Salsa Verde Flavored Tortilla Chips,2,210,1,1,28,140,1
+46,DORITOS® Taco Flavored Tortilla Chips,2,170,1,0,28,140,1
+47,Simply Organic Spicy White Cheddar Flavored Tortilla Chips,2,190,1,0.9,28,150,1
+48,Simply Organic White Cheddar Flavored Tortilla Chips,2,170,1,0,28,150,1
+49,LAY'S® Cheddar Jalapeño,2,180,1,0.9,28,160,1.5
+50,LAY'S® Classic Potato Chips,2,170,1,0.9,28,160,1.5
+51,LAY'S® BBQ Flavored Potato Chips,2,150,1,2,28,150,1.5
+52,LAY'S® Sour Cream & Onion Flavored Potato Chips,2,160,1,1,28,160,1.5
+53,LAY'S® Cheddar & Sour Cream Flavored Potato Chips,2,170,1,1,28,160,1.5
+54,LAY'S® Flamin' Hot Flavored Potato Chips,2,190,1,1,28,160,1.5
+55,LAY'S® Salt & Vinegar Flavored Potato Chips,2,220,1,1,28,160,1.5
+56,LAY'S® Sweet Southern Heat BBQ Flavored Potato Chips,1,150,1,2,28,150,1.5
+57,LAY'S® Honey BBQ Flavored Potato Chips,2,105,1,2,28,160,1.5
+58,LAY'S® Chile Limón Flavored Potato Chips,2,160,1,0.9,28,160,1.5
+59,LAY'S® Limón Flavored Potato Chips,2,200,1,1,28,160,1.5
+60,LAY'S® Fiery Habanero Flavored Potato Chips,2,140,1,1,28,160,1.5
+61,LAY'S® Dill Pickle Flavored Potato Chips,2,210,1,0.9,28,160,1.5
+62,LAY'S® Flamin' Hot Dill Pickle Flavored Potato Chips,2,200,1,1,28,150,1.5
+63,LAY'S® Chesapeake Bay Crab Spice Flavored Potato Chips,2,180,1,1,28,150,1.5
+64,SABRITAS® Adobadas Flavored Potato Chips,2,230,1,1,28,160,1.5
+65,SUNCHIPS® HARVEST CHEDDAR® FLAVORED WHOLE GRAIN SNACKS,2,170,2,2,28,140,0.5
+66,SUNCHIPS® GARDEN SALSA® FLAVORED WHOLE GRAIN SNACKS,2,140,2,2,28,140,0.5
+67,SUNCHIPS® ORIGINAL WHOLE GRAIN SNACKS,2,110,2,2,28,140,0.5
+68,SUNCHIPS® FRENCH ONION FLAVORED WHOLE GRAIN SNACKS,2,140,2,2,28,140,0.5
+69,TOSTITOS® ORIGINAL RESTAURANT STYLE,2,115,1,0,28,140,1
+70,TOSTITOS® LIGHTLY SALTED,2,55,1,0,28,140,1
+71,TOSTITOS® HINT OF LIME,2,125,1,0.9,28,150,1
+72,SIMPLY TOSTITOS® ORGANIC BLUE CORN,2,80,1,0,28,140,0.5
+73,TOSTITOS® CANTINA THIN & CRISPY,2,110,2,0,28,150,1
+74,TOSTITOS® CANTINA TRADITIONAL,2,110,1,0,28,150,1
+75,TOSTITOS® STRIPS,0,115,1,0,28,150,1
+76,TOSTITOS® HINT OF GUACAMOLE,2,150,1,0.9,28,150,1
+77,TOSTITOS® BITE SIZE,2,110,1,0,28,140,1
+78,TOSTITOS® CRISPY ROUNDS,2,120,1,0,28,140,1
+79,TOSTITOS® SABRITAS® SALSA VERDE,2,190,1,0,28,150,1
+80,TOSTITOS® HINT OF SPICY QUESO,2,180,1,0,28,150,1
+81,TOSTITOS® SCOOPS!®,2,120,2,0,28,140,1
+82,TOSTITOS® MULTIGRAIN SCOOPS!®,2,110,2,0.9,28,140,1
+83,TOSTITOS® BAKED SCOOPS!®,2,140,2,0,28,120,0

@@ -1,0 +1,32 @@
+s.no,Nameofproduct,protein_gram,sodium_mg,fiber_gram,sugars_gram,Servingsize_g,calories_value,Saturatedfat,category
+1,iwon_organics - Mesquite  BBQ,10,220,5,3,42,180,0.5,organic
+2,iwon_organics - Korean BBQ,10,220,5,3,42,180,0.5,organic
+3,iwon_organics - spicy sweet peppers,10,280,5,2,42,180,0.5,organic
+4,iwon_organics - nacho cheese,10,310,5,1,42,180,1,organic
+5,iwon_organics - sweet djion,10,200,5,3,42,180,0.5,organic
+6,iwon_organics - tapatio jalapeno sour cream,10,250,5,2,42,180,1,organic
+7,iwon_organics - cheddar cheese,10,210,5,0.9,42,180,0.5,organic
+8,iwon_organics - red pepper,10,220,5,0.9,42,180,0.5,organic
+9,iwon_organics - caramelized onion,10,250,5,2,42,180,0.5,organic
+10,CHEETOS® Puffs Cheese Flavored Snacks,2,270,0.9,1,28,160,1.5,regular
+11,CHEETOS® Simply Puffs White Cheddar Cheese Flavored Snacks,2,280,0.9,0,28,160,1.5,regular
+12,CHEETOS® Puffs FLAMIN' HOT® Cheese Flavored Snacks,1,310,0.9,0,28,160,1.5,regular
+13,CHEETOS® Crunchy Cheese Flavored Snacks,2,250,0.9,0.9,28,160,1.5,regular
+14,CHEETOS® Simply Crunchy White Cheddar Cheese Flavored Snacks,2,210,0.9,0.9,28,160,1.5,regular
+15,CHEETOS® Crunchy XXTRA FLAMIN' HOT® Cheese Flavored Snacks,2,230,0.9,0,28,160,1.5,regular
+16,CHEETOS® Crunchy Cheddar Jalapeño Cheese Flavored Snacks,2,290,0.9,0.9,28,160,1.5,regular
+17,CHEETOS® Crunchy FLAMIN' HOT® Limón Cheese Flavored Snacks,1,260,0.9,0,28,170,1.5,regular
+18,"Pirate's Booty, Aged White Cheddar, 1-Ounce Bags (Pack of 24)",2,140,0,0,28,130,1,regular
+19,Pirate's Booty® Aged White Cheddar,1,95,0,1,14,70,0.5,regular
+20,Pirate's Booty® Ranch,2,190,0,1,28,140,1,regular
+21,Pirate's Booty® Veggie,2,105,1,1,28,140,1,regular
+22,"Funyuns Onion Flavored Rings, 6 Ounce",2,280,0.9,0.9,28,140,1,regular
+23,"Funyuns Flamin' Hot Onion Flavored Rings, 6 oz",2,290,0.9,0.9,28,140,1,regular
+24,Hippeas - vegan white cheddar,4,140,3,2,28,130,0,organic
+25,Hippeas - nacho vibes™,4,125,3,2,28,130,0,organic
+26,Hippeas - bohemian barbecue™,4,80,3,3,28,130,0,organic
+27,Hippeas - sriracha sunshine™,4,170,3,2,28,130,0,organic
+28,Hippeas - himalayan happiness™,4,230,3,2,28,120,0,organic
+29,Hippeas - straight up sea salt™,3,280,3,1,28,160,1,organic
+30,Hippeas - jalapeño vegan cheddar,3,330,3,1,28,150,1,organic
+31,Hippeas - rockin’ ranch™,3,240,3,1,28,150,1,organic
